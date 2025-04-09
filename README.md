@@ -1,18 +1,3 @@
-# Fitness Tracking Dashboard
-This project is a fitness dashboard application built with React and Vite. It allows users to track workouts, set goals, and monitor progress.
-
-## Prerequisites
-- Node.js (v14 or later)
-- npm (v6 or later)
-
-## Setup Instructions
-- 1.Clone the Repository:
-    `git clone <repository-url>
-     cd fitness-dashboard
-  
-- 2.Install Dependencies:
-
-
 # Fitness Dashboard
 
 This project is a fitness dashboard application built with React and Vite. It allows users to track workouts, set goals, and monitor progress.
@@ -75,4 +60,12 @@ This project is a fitness dashboard application built with React and Vite. It al
 
 - ⚛️ React  
 - ⚡ Vite  
-- 🎨
+- 🎨 Tailwind CSS  
+- 🛢 Supabase  
+- 📐 Flowbite  
+
+---
+
+## License
+
+This project is licensed under the MIT License.

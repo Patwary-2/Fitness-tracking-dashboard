@@ -6,8 +6,10 @@ This project is a fitness dashboard application built with React and Vite. It al
 - npm (v6 or later)
 
 ## Setup Instructions
--1.Clone the Repository:
-
--2.Install Dependencies:
+- 1.Clone the Repository:
+    `git clone <repository-url>
+     cd fitness-dashboard
+  
+- 2.Install Dependencies:
 
 
